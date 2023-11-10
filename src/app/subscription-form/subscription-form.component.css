@@ -1,0 +1,13 @@
+.card{
+    background-color: var(--sec-color);
+    border: none;
+    /* width: 1200px; */
+}
+
+
+.subs-text{
+    /* width: 500px; */
+}
+.form-inline{
+    display: flex;margin-top: 30px;
+}
